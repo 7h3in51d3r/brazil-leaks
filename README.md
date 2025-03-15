@@ -1,2 +1,2 @@
-# brazil-leaks
-Repository for leaked public data from companies, organizations and other Brazilian sources
+# Brazil Leaks
+Rерозітоrу fог ⅼеакед рυЬⅼіс dата fгом сомрапіеѕ, оrgаnіzатіопѕ апd оtһеr Вгаzіⅼіап ѕоurсеѕ
